@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pngInt">
+    <file>int_img_ade.png</file>
+  </qresource>
+</RCC>
